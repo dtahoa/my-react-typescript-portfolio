@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/my-react-typescript-portfolio/static/css/main.d53451c1.chunk.css",
-    "main.js": "/my-react-typescript-portfolio/static/js/main.33c48adb.chunk.js",
-    "main.js.map": "/my-react-typescript-portfolio/static/js/main.33c48adb.chunk.js.map",
+    "main.js": "/my-react-typescript-portfolio/static/js/main.b82e5e9f.chunk.js",
+    "main.js.map": "/my-react-typescript-portfolio/static/js/main.b82e5e9f.chunk.js.map",
     "runtime-main.js": "/my-react-typescript-portfolio/static/js/runtime-main.34ef6de3.js",
     "runtime-main.js.map": "/my-react-typescript-portfolio/static/js/runtime-main.34ef6de3.js.map",
     "static/js/2.a8a2dd5b.chunk.js": "/my-react-typescript-portfolio/static/js/2.a8a2dd5b.chunk.js",
     "static/js/2.a8a2dd5b.chunk.js.map": "/my-react-typescript-portfolio/static/js/2.a8a2dd5b.chunk.js.map",
     "index.html": "/my-react-typescript-portfolio/index.html",
-    "precache-manifest.fd0456816fb0b72a86be83ac263378a8.js": "/my-react-typescript-portfolio/precache-manifest.fd0456816fb0b72a86be83ac263378a8.js",
+    "precache-manifest.add0440b20a5fc730731b7fc4b3bb363.js": "/my-react-typescript-portfolio/precache-manifest.add0440b20a5fc730731b7fc4b3bb363.js",
     "service-worker.js": "/my-react-typescript-portfolio/service-worker.js",
     "static/css/main.d53451c1.chunk.css.map": "/my-react-typescript-portfolio/static/css/main.d53451c1.chunk.css.map",
     "static/js/2.a8a2dd5b.chunk.js.LICENSE.txt": "/my-react-typescript-portfolio/static/js/2.a8a2dd5b.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.34ef6de3.js",
     "static/js/2.a8a2dd5b.chunk.js",
     "static/css/main.d53451c1.chunk.css",
-    "static/js/main.33c48adb.chunk.js"
+    "static/js/main.b82e5e9f.chunk.js"
   ]
 }
